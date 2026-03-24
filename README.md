@@ -5,6 +5,13 @@
 ライセンスの関係により、素材そのものを私の独断で公開することが難しいためです。</br>
 ソースコードには、GitHub Pages用のUnity WebGLビルドが含まれています。
 
+## Language / 言語
+
+- 日本語（このページ）
+- [English](README_EN.md)
+
+※現在ゲーム自体がサポートしているのは日本語のみです。
+
 ## Play in your Browser Online
 
 → https://shinyone21.github.io/EcoDrop-builds/
