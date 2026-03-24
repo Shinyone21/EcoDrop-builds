@@ -7,7 +7,7 @@
 
 ## Play in your Browser Online
 
-→ https://shinyone21.github.io/EcoDrop/
+→ https://shinyone21.github.io/EcoDrop-builds/
 
 ### Supported Browsers
 
