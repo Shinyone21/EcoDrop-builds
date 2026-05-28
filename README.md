@@ -37,7 +37,7 @@ PC・スマートフォン・タブレットで動作しますが、
 - Android（ARM）
 
 以下のページからダウンロードできます：  
-https://github.com/Shinyone21/EcoDrop/releases/latest
+https://github.com/Shinyone21/EcoDrop-builds/releases/latest
 
 ## ゲーム概要
 
