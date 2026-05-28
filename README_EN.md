@@ -38,7 +38,7 @@ but performance may be unstable on some devices.
 - Android (ARM only)
 
 You can download from:
-https://github.com/Shinyone21/EcoDrop/releases/latest
+https://github.com/Shinyone21/EcoDrop-builds/releases/latest
 
 ## Game Overview
 
